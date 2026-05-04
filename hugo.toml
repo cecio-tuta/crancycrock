@@ -1,0 +1,34 @@
+baseURL = "https://crancycrock.it/"
+languageCode = "it-it"
+title = "Crancy Crock"
+theme = "ananke"
+
+[[menus.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menus.main]]
+name = "Live"
+url = "/live/"
+weight = 2
+
+[[menus.main]]
+name = "Band"
+url = "/band/"
+weight = 3
+
+[[menus.main]]
+name = "Discography"
+url = "/discography/"
+weight = 4
+
+[[menus.main]]
+name = "Video"
+url = "/video/"
+weight = 5
+
+[[menus.main]]
+name = "Contact"
+url = "/contact/"
+weight = 6
