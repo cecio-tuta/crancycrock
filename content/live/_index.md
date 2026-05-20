@@ -2,5 +2,6 @@
 title: "Live"
 draft: false
 ---
-
-**In aggiornamento**
+<p style="text-align: center;">
+20/06/2026 - B&ouml;s Festival - Leffe (BG)
+</p>

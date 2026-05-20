@@ -2,5 +2,6 @@
 title: "Discography"
 draft: false
 ---
-
-**In aggiornamento**
+<p style="text-align: center;">
+In aggiornamento
+</p>

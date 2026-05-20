@@ -3,6 +3,11 @@ languageCode = "it-it"
 title = "Crancy Crock"
 theme = "PaperMod"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [[menus.main]]
 name = "Home"
 url = "/"
