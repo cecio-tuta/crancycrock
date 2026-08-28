@@ -2,6 +2,10 @@
 title: "Live"
 draft: false
 ---
-<p style="text-align: center;">
-20/06/2026 - B&ouml;s Festival - Leffe (BG)
+<hr />
+<p>
+Non ci sono concerti in programma
+</p>
+<p>
+<small> * No live performances scheduled.</small>
 </p>
