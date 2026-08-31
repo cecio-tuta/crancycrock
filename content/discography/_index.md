@@ -6,11 +6,11 @@ draft: false
 <h2>Studio Albums</h2>
 
 <!-- RIFERIMENTO -->
-<h3>Mayday</h3>
+<h3 style="text-align:center;">Mayday</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
 <!-- div1: copertina -->
-<div style="flex:1; min-width:200px; text-align:center;">
-<img src="/images/cont2/cd/may160.jpg" alt="Mayday front cover" style="width:200px; border-radius:6px;">
+<div style="flex:1; min-width:240px; text-align:center;">
+<img src="/images/cont2/cd/mayday240.webp" alt="Mayday front cover" style="width:240px; border-radius:6px;">
 </div>
 <!-- div2: descrizione -->
 <div style="flex:2; min-width:200px;">
@@ -18,32 +18,31 @@ draft: false
 <p>(2022) Recorded in Brescia at Indie Box by Giovanni Bottoglia. Produced by Gasterecords and Crancy Crock.</p>
 </div>
 <!-- div3: acquisto -->
-<div style="flex:1; min-width:200px; text-align:left;">
-<small><a href="https://gasterecords.bigcartel.com/product/crancy-crock-mayday" target="_blank">💿 BUY CD</a></small>
+<div style="flex:1; min-width:180px; text-align:left;">
+<p><small><a href="https://gasterecords.bigcartel.com/product/crancy-crock-mayday" target="_blank">💿 BUY CD</a></small></p>
 <img src="/images/cont2/buy/mayday_buy.jpg" alt="Buy Mayday" style="width:160px; border-radius:6px;">
 </div>
 </div>
 
-<!-- MAYDAY -->
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin:1rem 0;">
-<div style="flex-shrink:0; text-align:center;">
-<img src="/images/cont2/cd/mayday240.webp" alt="Mayday front cover" style="width:240px; height:240px; object-fit:cover; border-radius:6px; display:block;">
-</div>
-<div style="flex:1;">
+<!-- RIFERIMENTO -->
 <h3 style="text-align:center;">Mayday</h3>
-<div style="display:flex; gap:1.5rem; align-items:flex-start;">
-<div style="flex:1;">
-<small><a href="/images/cont2/cd/mayday.jpg" title="View full size" target="_blank">🔍 VIEW FULL SIZE</a></small>
-<br />
+<div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
+<!-- div1: copertina -->
+<div style="flex:1; min-width:240px; text-align:center;">
+<img src="/images/cont2/cd/mayday240.webp" alt="Mayday front cover" style="width:240px; border-radius:6px;">
+</div>
+<!-- div2: descrizione -->
+<div style="flex:2; min-width:200px;">
+<small><a href="/images/cont2/cd/mayday.jpg" target="_blank">🔍 VIEW FULL SIZE</a></small>
 <p>(2022) Recorded in Brescia at Indie Box by Giovanni Bottoglia. Produced by Gasterecords and Crancy Crock.</p>
 </div>
-<div style="flex-shrink:0; text-align:center;">
-<small><a href="https://gasterecords.bigcartel.com/product/crancy-crock-mayday" title="Buy CD" target="_blank">💿 BUY CD</a></small>
-<img src="/images/cont2/buy/mayday_buy.jpg" alt="Buy Mayday album" style="width:160px; object-fit:cover; border-radius:6px; display:block;">
+<!-- div3: acquisto -->
+<div style="flex:1; min-width:180px; text-align:left;">
+<p><small><a href="https://gasterecords.bigcartel.com/product/crancy-crock-mayday" target="_blank">💿 BUY CD</a></small></p>
+<img src="/images/cont2/buy/mayday_buy.jpg" alt="Buy Mayday" style="width:160px; border-radius:6px;">
 </div>
 </div>
-</div>
-</div>
+
 <!-- NUOVI eVENTI -->
 <div style="display:flex; gap:1.5rem; align-items:flex-start; margin:1rem 0;">
 <div style="flex-shrink:0; text-align:center;">
