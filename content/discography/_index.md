@@ -14,7 +14,7 @@ draft: false
 </div>
 <!-- div2: descrizione -->
 <div style="flex:2; min-width:200px;">
-<small><a href="/images/cont2/cd/mayday.jpg" target="_blank">🔍 VIEW FULL SIZE</a></small>
+<p><small><a href="/images/cont2/cd/mayday.jpg" target="_blank">🔍 VIEW FULL SIZE</a></small></p>
 <p>(2022) Recorded in Brescia at Indie Box by Giovanni Bottoglia. Produced by Gasterecords and Crancy Crock.</p>
 </div>
 <!-- div3: acquisto -->
@@ -33,7 +33,7 @@ draft: false
 </div>
 <!-- div2: descrizione -->
 <div style="flex:2; min-width:200px;">
-<small><a href="/images/cont2/cd/mayday.jpg" target="_blank">🔍 VIEW FULL SIZE</a></small>
+<p><small><a href="/images/cont2/cd/mayday.jpg" target="_blank">🔍 VIEW FULL SIZE</a></small></p>
 <p>(2022) Recorded in Brescia at Indie Box by Giovanni Bottoglia. Produced by Gasterecords and Crancy Crock.</p>
 </div>
 <!-- div3: acquisto -->
