@@ -3,54 +3,19 @@ title: "Discography"
 draft: false
 ---
 <hr />
-<!-- INDICE -->
-<div style="margin:1rem 0 2rem 0;">
-
-<p><strong>Studio Albums</strong></p>
-<ul style="list-style:none; padding:0;">
-<li><a href="#mayday"><img src="/images/cont2/cd/mayday240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">Mayday</a></li>
-<li><a href="#nuovi-eventi"><img src="/images/cont2/cd/nuovieventi240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">NUOVI eVENTI</a></li>
-<li><a href="#moderno-medioevo"><img src="/images/cont2/cd/moderno_medioevo240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">Moderno Medioevo</a></li>
-<li><a href="#il-gioco-delle-palle"><img src="/images/cont2/cd/il_gioco_delle_palle240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">Il gioco delle palle</a></li>
-<li><a href="#radiabolical-songs"><img src="/images/cont2/cd/radiabolical_songs240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">Radiabolical Songs</a></li>
-<li><a href="#non-con-noi"><img src="/images/cont2/cd/non_con_noi240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">...nOn cOn Noi...</a></li>
-<li><a href="#crancy-crock-album"><img src="/images/cont2/cd/crancy_crock240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">Crancy Crock</a></li>
-</ul>
-
-<p><strong>Singles & Demo</strong></p>
-<ul style="list-style:none; padding:0;">
-<li><a href="#lacrime-di-cemento"><img src="/images/cont2/cd/cemento240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">Lacrime Di Cemento</a></li>
-<li><a href="#johnny-natale"><img src="/images/cont2/cd/jn240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">Johnny Natale</a></li>
-<li><a href="#cartine-e-cartoni"><img src="/images/cont2/cd/cartine_cartoni240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">Cartine e Cartoni</a></li>
-</ul>
-
-<p><strong>Live</strong></p>
-<ul style="list-style:none; padding:0;">
-<li><a href="#live-music-for-emergency"><img src="/images/cont2/cd/emergency240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">Live!! Music for Emergency</a></li>
-<li><a href="#ci-vuol-partecipazione"><img src="/images/cont2/cd/civuolpa240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">Ci vuol partecipazione!</a></li>
-</ul>
-
-<p><strong>Compilations</strong></p>
-<ul style="list-style:none; padding:0;">
-<li><a href="#contro-la-pandemia"><img src="/images/cont2/contropandemia240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">Contro la Pandemia</a></li>
-<li><a href="#music-against-virus"><img src="/images/cont/ramc240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">Music Against Virus</a></li>
-<li><a href="#all-you-need-is-punk"><img src="/images/cont2/cd/aynip240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">All You Need is Punk Vol.5</a></li>
-<li><a href="#mp3-goes-punk"><img src="/images/cont2/cd/mp3_goes_punk_vol4240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">MP3 Goes Punk Vol.4</a></li>
-<li><a href="#italian-punk-rock-party"><img src="/images/cont2/cd/italian_punk_rock_party240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">Italian Punk Rock party</a></li>
-<li><a href="#rock-against-silvio"><img src="/images/cont2/cd/rock_against_silvio240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">Rock Against &#36;ilvio</a></li>
-<li><a href="#samoan-plays-ramones"><img src="/images/cont2/cd/samoan_plays_ramones240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">Samoan Plays Ramones</a></li>
-<li><a href="#indiebox-vol3"><img src="/images/cont2/cd/indie_box_vol3240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">Indiebox Compilation Vol.3</a></li>
-<li><a href="#indiebox-vol1"><img src="/images/cont2/cd/indie_box_vol1240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">Indiebox Compilation Vol.1</a></li>
-<li><a href="#punkina-skassata"><img src="/images/cont2/cd/punkina_skassata240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">Punkina Skassata</a></li>
-<li><a href="#under-street"><img src="/images/cont2/cd/under_street_compilation240.webp" style="width:40px; height:40px; object-fit:cover; border-radius:4px; vertical-align:middle; margin-right:8px;">Under Street Compilation</a></li>
-</ul>
-
-</div>
-<hr/>
+<br />
 
 <h2>Studio Albums</h2>
-<hr/>
-
+<small>
+<a href="#mayday">Mayday</a>  |  
+<a href="#nuovi-eventi">NUOVI eVENTI</a>  |  
+<a href="#moderno-medioevo">Moderno Medioevo</a>  |  
+<a href="#il-gioco-delle-palle">Il gioco delle palle</a>  |  
+<a href="#radiabolical-songs">Radiabolical Songs</a>  |  
+<a href="#non-con-noi">...nOn cOn Noi...</a>  |  
+<a href="#crancy-crock-album">Crancy Crock</a>
+</small>
+<br />
 <!-- MAYDAY -->
 <h3 id="mayday" style="text-align:center;">Mayday</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -70,8 +35,6 @@ draft: false
 </a>
 </div>
 </div>
-<hr/>
-
 <!-- NUOVI eVENTI -->
 <h3 id="nuovi-eventi" style="text-align:center;">NUOVI eVENTI</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -91,8 +54,6 @@ draft: false
 </a>
 </div>
 </div>
-<hr/>
-
 <!-- MODERNO MEDIOEVO -->
 <h3 id="moderno-medioevo" style="text-align:center;">Moderno Medioevo</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -112,8 +73,6 @@ draft: false
 </a>
 </div>
 </div>
-<hr/>
-
 <!-- IL GIOCO DELLE PALLE -->
 <h3 id="il-gioco-delle-palle" style="text-align:center;">Il gioco delle palle</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -133,8 +92,6 @@ draft: false
 </a>
 </div>
 </div>
-<hr/>
-
 <!-- RADIABOLICAL SONGS -->
 <h3 id="radiabolical-songs" style="text-align:center;">Radiabolical Songs</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -154,8 +111,6 @@ draft: false
 </a>
 </div>
 </div>
-<hr/>
-
 <!-- NON CON NOI -->
 <h3 id="non-con-noi" style="text-align:center;">...nOn cOn Noi...</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -175,8 +130,6 @@ draft: false
 </a>
 </div>
 </div>
-<hr/>
-
 <!-- CRANCY CROCK -->
 <h3 id="crancy-crock-album" style="text-align:center;">Crancy Crock</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -194,11 +147,13 @@ draft: false
 <img src="/images/cont2/buy/crancy_crock_buy.jpg" alt="Crancy Crock album" style="width:160px; border-radius:6px;">
 </div>
 </div>
-<hr/>
-
+<hr />
 <h2>Singles & Demo</h2>
-<hr/>
-
+<small>
+<a href="#lacrime-di-cemento">Lacrime Di Cemento</a>  |  
+<a href="#johnny-natale">Johnny Natale</a>  |  
+<a href="#cartine-e-cartoni">Cartine e Cartoni</a>  |  
+</small>
 <!-- LACRIME DI CEMENTO -->
 <h3 id="lacrime-di-cemento" style="text-align:center;">Lacrime Di Cemento</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -215,8 +170,6 @@ draft: false
 <p><small>🤖 ONLY DIGITAL ED.</small></p>
 </div>
 </div>
-<hr/>
-
 <!-- JOHNNY NATALE -->
 <h3 id="johnny-natale" style="text-align:center;">Johnny Natale</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -233,8 +186,6 @@ draft: false
 <p><small>🤖 ONLY DIGITAL ED.</small></p>
 </div>
 </div>
-<hr/>
-
 <!-- CARTINE E CARTONI -->
 <h3 id="cartine-e-cartoni" style="text-align:center;">Cartine e Cartoni</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -251,11 +202,11 @@ draft: false
 <p><small>❌ SOLD OUT</small></p>
 </div>
 </div>
-<hr/>
-
+<hr />
 <h2>Live</h2>
-<hr/>
-
+<small><a href="#live-music-for-emergency">Live!! Music for Emergency</a>  |  
+<a href="#ci-vuol-partecipazione">Ci vuol partecipazione!</a>
+</small>
 <!-- LIVE MUSIC FOR EMERGENCY -->
 <h3 id="live-music-for-emergency" style="text-align:center;">Live!! Music for Emergency</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -272,8 +223,6 @@ draft: false
 <p><small>❌ SOLD OUT</small></p>
 </div>
 </div>
-<hr/>
-
 <!-- CI VUOL PARTECIPAZIONE -->
 <h3 id="ci-vuol-partecipazione" style="text-align:center;">Ci vuol partecipazione!</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -293,11 +242,20 @@ draft: false
 </a>
 </div>
 </div>
-<hr/>
-
+<hr />
 <h2>Compilations</h2>
-<hr/>
-
+<a href="#contro-la-pandemia">Contro la Pandemia</a>  |  
+<a href="#music-against-virus">Music Against Virus</a>  |  
+<a href="#all-you-need-is-punk">All You Need is Punk Vol.5</a>  |  
+<a href="#mp3-goes-punk">MP3 Goes Punk Vol.4</a>  |  
+<a href="#italian-punk-rock-party">Italian Punk Rock party</a>  |  
+<a href="#rock-against-silvio">Rock Against &#36;ilvio</a>  |  
+<a href="#samoan-plays-ramones">Samoan Plays Ramones</a>  |  
+<a href="#indiebox-vol3">Indiebox Compilation Vol.3</a>  |  
+<a href="#indiebox-vol1">Indiebox Compilation Vol.1</a>  |  
+<a href="#punkina-skassata">Punkina Skassata</a>  |  
+<a href="#under-street">Under Street Compilation</a>
+</small>
 <!-- CONTRO LA PANDEMIA -->
 <h3 id="contro-la-pandemia" style="text-align:center;">Contro la Pandemia</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -317,8 +275,6 @@ draft: false
 </a>
 </div>
 </div>
-<hr/>
-
 <!-- MUSIC AGAINST VIRUS -->
 <h3 id="music-against-virus" style="text-align:center;">Music Against Virus</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -338,8 +294,6 @@ draft: false
 </a>
 </div>
 </div>
-<hr/>
-
 <!-- ALL YOU NEED IS PUNK VOL.5 -->
 <h3 id="all-you-need-is-punk" style="text-align:center;">All You Need is Punk Vol.5</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -359,8 +313,6 @@ draft: false
 </a>
 </div>
 </div>
-<hr/>
-
 <!-- MP3 GOES PUNK VOL.4 -->
 <h3 id="mp3-goes-punk" style="text-align:center;">MP3 Goes Punk Vol.4</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -380,8 +332,6 @@ draft: false
 </a>
 </div>
 </div>
-<hr/>
-
 <!-- ITALIAN PUNK ROCK PARTY -->
 <h3 id="italian-punk-rock-party" style="text-align:center;">Italian Punk Rock party</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -398,8 +348,6 @@ draft: false
 <p><small>❌ SOLD OUT</small></p>
 </div>
 </div>
-<hr/>
-
 <!-- ROCK AGAINST $ILVIO -->
 <h3 id="rock-against-silvio" style="text-align:center;">Rock Against &#36;ilvio</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -416,8 +364,6 @@ draft: false
 <p><small>❌ SOLD OUT</small></p>
 </div>
 </div>
-<hr/>
-
 <!-- SAMOAN PLAYS RAMONES -->
 <h3 id="samoan-plays-ramones" style="text-align:center;">Samoan Plays Ramones</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -434,8 +380,6 @@ draft: false
 <p><small>❌ SOLD OUT</small></p>
 </div>
 </div>
-<hr/>
-
 <!-- INDIEBOX COMPILATION VOL.3 -->
 <h3 id="indiebox-vol3" style="text-align:center;">Indiebox Compilation Vol.3</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -452,8 +396,6 @@ draft: false
 <p><small>❌ SOLD OUT</small></p>
 </div>
 </div>
-<hr/>
-
 <!-- INDIEBOX COMPILATION VOL.1 -->
 <h3 id="indiebox-vol1" style="text-align:center;">Indiebox Compilation Vol.1</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -470,8 +412,6 @@ draft: false
 <p><small>❌ SOLD OUT</small></p>
 </div>
 </div>
-<hr/>
-
 <!-- PUNKINA SKASSATA -->
 <h3 id="punkina-skassata" style="text-align:center;">Punkina Skassata</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -488,8 +428,6 @@ draft: false
 <p><small>❌ SOLD OUT</small></p>
 </div>
 </div>
-<hr/>
-
 <!-- UNDER STREET COMPILATION -->
 <h3 id="under-street" style="text-align:center;">Under Street Compilation</h3>
 <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0;">
@@ -506,4 +444,3 @@ draft: false
 <p><small>❌ SOLD OUT</small></p>
 </div>
 </div>
-<hr/>
