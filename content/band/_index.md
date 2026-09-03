@@ -22,7 +22,7 @@ Dal 1997 portano sul palco tutta l'energia che li contraddistingue con un repert
 <br /> <br />
 Nel roster dell'etichetta indipendente <strong>GASTERECORDS</strong> promuovono la propria musica e quella di altre band emergenti condividendo il palco con Cattive Abitudini, Vodka Juniors, L'invasione degli Omini Verdi, Los Fastidios, Totale Apatia, Bad Frog, Cornoltis, Jerry Moovers, Antefatti, Quarantena e aprendo i concerti di Punkreas, Marky Ramone's Blitzkrieg, ecc.<br /> <br />
 </p>
-<div style="text-align: center; margin-top: 20px;">
+<div style="text-align: center;">
  <img src="/images/crancy_crock_band.jpg" alt="Crancy Crock Band" width="800">
 </div>
 <h3>
