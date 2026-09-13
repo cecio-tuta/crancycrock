@@ -13,14 +13,14 @@
 
 /* Variabili CSS usate da PaperMod */
 :root {
-  --theme:    #1c1917;
-  --entry:    #292524;
-  --primary:  #fafaf9;
-  --secondary:#a8a29e;
-  --border:   #44403c;
-  --content:  #fafaf9;
-  --hljs-bg:  #292524;
-  --code-bg:  #292524;
+  --theme:     #1c1917;
+  --entry:     #292524;
+  --primary:   #fafaf9;
+  --secondary: #a8a29e;
+  --border:    #44403c;
+  --content:   #fafaf9;
+  --hljs-bg:   #292524;
+  --code-bg:   #292524;
 }
 
 /* Sfondo e testo globali */
@@ -29,10 +29,11 @@ body {
   color: #fafaf9;
 }
 
-/* Header */
-.header {
-  background-color: #1c1917;
-  border-bottom: 1px solid #44403c;
+/* Header — selettore doppio per specificità superiore a PaperMod */
+header.header {
+  background-color: #1c1917 !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
 }
 
 /* Link */
@@ -46,7 +47,7 @@ a:hover {
   text-decoration: none;
 }
 
-/* Logo/titolo nel header: rimane bianco, non giallo */
+/* Logo nel header: rimane bianco invece che giallo */
 .logo a {
   color: #fafaf9;
 }
