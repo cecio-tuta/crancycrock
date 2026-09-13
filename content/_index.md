@@ -9,18 +9,10 @@ draft: false
 <div style="display:flex; gap:2rem; flex-wrap:wrap; justify-content:center; margin:2rem 0;">
 
   <div>
-    <!-- WIDGET FACEBOOK -->
-    <iframe 
-      src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fcrancycrock&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
-      width="340" 
-      height="500" 
-      style="border:none; overflow:hidden;" 
-      scrolling="no" 
-      frameborder="0" 
-      allowfullscreen="true" 
-      allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
-    </iframe>
-  </div>
+<!-- Elfsight Facebook Feed | Untitled Facebook Feed -->
+<script src="https://elfsightcdn.com/platform.js" async></script>
+<div class="elfsight-app-65b42fcf-2697-45a8-b1b7-67c9a958f55d" data-elfsight-app-lazy></div>
+</div>
 
   <div>
     <!-- WIDGET INSTAGRAM -->
