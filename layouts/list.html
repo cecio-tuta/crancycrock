@@ -9,7 +9,7 @@
   {{- partial "breadcrumbs.html" . }}
   <h1 class="post-title entry-hint-parent" style="display:flex; align-items:baseline; justify-content:space-between;">
     {{ .Title }}
-    <span style="font-size:0.4em; color:#a8a29e; margin-left:auto; display:inline-block;">CRANCY CROCK - Official Website</span>
+    <span style="font-size:0.3em; color:#a8a29e; margin-left:auto; display:inline-block;">CRANCY CROCK</span>
     {{- if and (or (eq .Kind `term`) (eq .Kind `section`)) (.Param "ShowRssButtonInSectionTermList") }}
     {{- with .OutputFormats.Get "rss" }}
     <a href="{{ .RelPermalink }}" title="RSS" aria-label="RSS">
