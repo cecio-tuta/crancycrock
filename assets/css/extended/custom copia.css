@@ -1,0 +1,59 @@
+/* ==============================================
+   Crancy Crock - Dark theme (palette ispirata ad aafu)
+   Colori:
+   - Sfondo principale:   #1c1917 (stone-900)
+   - Sfondo secondario:   #292524 (stone-800)
+   - Sfondo terziario:    #44403c (stone-700)
+   - Testo principale:    #fafaf9 (stone-50)
+   - Testo secondario:    #a8a29e (stone-400)
+   - Link:                #eab308 (yellow-500)
+   - Link hover:          #fde047 (yellow-300)
+   - Bordi:               #44403c (stone-700)
+=============================================== */
+
+/* Variabili CSS usate da PaperMod */
+:root {
+  --theme:     #292524   !important;/* (stone-800) — sfondo principale */
+  --entry:     #292524;  /* (stone-800) — sfondo card/post */
+  --primary:   #fafaf9;  /* Bianco caldo (stone-50) — testo principale */
+  --secondary: #a8a29e;  /* Grigio caldo (stone-400) — testo secondario */
+  --border:    #44403c;  /* Grigio-marrone (stone-700) — bordi */
+  --content:   #fafaf9;  /* Bianco caldo (stone-50) — testo contenuto */
+  --hljs-bg:   #292524;  /* (stone-800) — sfondo blocchi codice */
+  --code-bg:   #292524;  /* (stone-800) — sfondo inline code */
+}
+
+/* Sfondo e testo globali */
+body {
+  background-color: #1c1917;
+  color: #fafaf9;
+}
+
+/* Header — selettore doppio per specificità superiore a PaperMod */
+header.header {
+  background-color: #292524 !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+/* Link */
+a {
+  color: #eab308;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fde047;
+  text-decoration: none;
+}
+
+/* Logo nel header: rimane bianco invece che giallo */
+.logo a {
+  color: #fafaf9;
+}
+
+/* Card degli articoli/sezioni */
+.post-entry {
+  background-color: #292524;
+  border: 1px solid #44403c;
+}

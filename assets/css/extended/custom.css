@@ -1,35 +1,30 @@
 /* ==============================================
    Crancy Crock - Dark theme (palette ispirata ad aafu)
    Colori:
-   - Sfondo principale:   #1c1917 (stone-900)
-   - Sfondo secondario:   #292524 (stone-800)
-   - Sfondo terziario:    #44403c (stone-700)
+   - Sfondo body:         #1c1917 (stone-900)
+   - Sfondo header/card:  #292524 (stone-800)
+   - Bordi:               #44403c (stone-700)
    - Testo principale:    #fafaf9 (stone-50)
    - Testo secondario:    #a8a29e (stone-400)
    - Link:                #eab308 (yellow-500)
    - Link hover:          #fde047 (yellow-300)
-   - Bordi:               #44403c (stone-700)
 =============================================== */
 
-/* Variabili CSS usate da PaperMod */
+/* Variabili CSS usate da PaperMod.
+   --theme controlla il background del body tramite PaperMod,
+   quindi va impostato qui e non nel selettore body. */
 :root {
-  --theme:     #292524   /* (stone-800) — sfondo principale */
-  --entry:     #292524;  /* (stone-800) — sfondo card/post */
-  --primary:   #fafaf9;  /* Bianco caldo (stone-50) — testo principale */
-  --secondary: #a8a29e;  /* Grigio caldo (stone-400) — testo secondario */
-  --border:    #44403c;  /* Grigio-marrone (stone-700) — bordi */
-  --content:   #fafaf9;  /* Bianco caldo (stone-50) — testo contenuto */
-  --hljs-bg:   #292524;  /* (stone-800) — sfondo blocchi codice */
-  --code-bg:   #292524;  /* (stone-800) — sfondo inline code */
+  --theme:     #1c1917;  /* stone-900 — background body */
+  --entry:     #292524;  /* stone-800 — background card/post */
+  --primary:   #fafaf9;  /* stone-50  — testo principale */
+  --secondary: #a8a29e;  /* stone-400 — testo secondario */
+  --border:    #44403c;  /* stone-700 — bordi */
+  --content:   #fafaf9;  /* stone-50  — testo contenuto */
+  --hljs-bg:   #292524;  /* stone-800 — sfondo blocchi codice */
+  --code-bg:   #292524;  /* stone-800 — sfondo inline code */
 }
 
-/* Sfondo e testo globali */
-body {
-  background-color: #1c1917;
-  color: #fafaf9;
-}
-
-/* Header — selettore doppio per specificità superiore a PaperMod */
+/* Header — !important necessario per vincere sulla specificità di PaperMod */
 header.header {
   background-color: #292524 !important;
   border-bottom: none !important;
