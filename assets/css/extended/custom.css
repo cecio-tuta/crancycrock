@@ -1,0 +1,58 @@
+/* ==============================================
+   Crancy Crock - Dark theme (palette ispirata ad aafu)
+   Colori:
+   - Sfondo principale:   #1c1917 (stone-900)
+   - Sfondo secondario:   #292524 (stone-800)
+   - Sfondo terziario:    #44403c (stone-700)
+   - Testo principale:    #fafaf9 (stone-50)
+   - Testo secondario:    #a8a29e (stone-400)
+   - Link:                #eab308 (yellow-500)
+   - Link hover:          #fde047 (yellow-300)
+   - Bordi:               #44403c (stone-700)
+=============================================== */
+
+/* Variabili CSS usate da PaperMod */
+:root {
+  --theme:    #1c1917;
+  --entry:    #292524;
+  --primary:  #fafaf9;
+  --secondary:#a8a29e;
+  --border:   #44403c;
+  --content:  #fafaf9;
+  --hljs-bg:  #292524;
+  --code-bg:  #292524;
+}
+
+/* Sfondo e testo globali */
+body {
+  background-color: #1c1917;
+  color: #fafaf9;
+}
+
+/* Header */
+.header {
+  background-color: #1c1917;
+  border-bottom: 1px solid #44403c;
+}
+
+/* Link */
+a {
+  color: #eab308;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fde047;
+  text-decoration: none;
+}
+
+/* Logo/titolo nel header: rimane bianco, non giallo */
+.logo a {
+  color: #fafaf9;
+}
+
+/* Card degli articoli/sezioni */
+.post-entry {
+  background-color: #292524;
+  border: 1px solid #44403c;
+}

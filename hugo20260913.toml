@@ -1,19 +1,11 @@
 baseURL = "https://crancycrock.it/"
 languageCode = "it-it"
 title = "Crancy Crock"
-subtitle = "CRANCY CROCK Official Website"
 theme = "PaperMod"
 
 [params]
-  # Tema fisso scuro, toggle disabilitato
   defaultTheme = "dark"
   disableThemeToggle = true
-
-  # Logo immagine al posto del titolo testuale
-  [params.label]
-    icon = "images/crancy_crock_home.webp"
-    iconHeight = 200
-    text = " "
 
 [markup]
   [markup.goldmark]
