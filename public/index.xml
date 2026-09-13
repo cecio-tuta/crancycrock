@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>it-it</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crancy Crock</title>
+      <link>http://localhost:1313/_index-copia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_index-copia/</guid>
+      <description>&lt;h1&gt; CRANCY CROCK - Official Website &lt;/h1&gt;</description>
+    </item>
   </channel>
 </rss>
