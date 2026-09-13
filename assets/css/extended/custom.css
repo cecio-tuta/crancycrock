@@ -13,14 +13,14 @@
 
 /* Variabili CSS usate da PaperMod */
 :root {
-  --theme:     #1c1917 !important;
-  --entry:     #292524;
-  --primary:   #fafaf9;
-  --secondary: #a8a29e;
-  --border:    #44403c;
-  --content:   #fafaf9;
-  --hljs-bg:   #292524;
-  --code-bg:   #292524;
+  --theme:     #292524   /* (stone-800) — sfondo principale */
+  --entry:     #292524;  /* (stone-800) — sfondo card/post */
+  --primary:   #fafaf9;  /* Bianco caldo (stone-50) — testo principale */
+  --secondary: #a8a29e;  /* Grigio caldo (stone-400) — testo secondario */
+  --border:    #44403c;  /* Grigio-marrone (stone-700) — bordi */
+  --content:   #fafaf9;  /* Bianco caldo (stone-50) — testo contenuto */
+  --hljs-bg:   #292524;  /* (stone-800) — sfondo blocchi codice */
+  --code-bg:   #292524;  /* (stone-800) — sfondo inline code */
 }
 
 /* Sfondo e testo globali */
@@ -31,7 +31,7 @@ body {
 
 /* Header — selettore doppio per specificità superiore a PaperMod */
 header.header {
-  background-color: #1c1917 !important;
+  background-color: #292524 !important;
   border-bottom: none !important;
   box-shadow: none !important;
 }
