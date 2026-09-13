@@ -52,3 +52,7 @@ a:hover {
   background-color: #292524;
   border: 1px solid #44403c;
 }
+
+* {
+  text-decoration: none !important;
+}
