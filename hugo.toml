@@ -12,7 +12,7 @@ theme = "PaperMod"
   # Logo immagine al posto del titolo testuale
   [params.label]
     icon = "images/crancy_crock_home.webp"
-    iconHeight = 200
+    iconHeight = 240
     text = " "
 
 [markup]
