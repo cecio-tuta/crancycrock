@@ -13,7 +13,7 @@
 
 /* Variabili CSS usate da PaperMod */
 :root {
-  --theme:     #1c1917;
+  --theme:     #1c1917 !important;
   --entry:     #292524;
   --primary:   #fafaf9;
   --secondary: #a8a29e;
